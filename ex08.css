@@ -1,0 +1,41 @@
+#nome1 {
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+#nome {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#email1 {
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+
+}
+
+#email {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#senha {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#senha1 {
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+
+}
+#genero {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#botao {
+    background-color: black;
+    color: aliceblue;
+    
+}
